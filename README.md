@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" width="50vw" height="35vh">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" width="40vw" height="35vh">
 <img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" width="50vw" height="35vh">
 📍 Arraial do Cabo, Brazil
 
