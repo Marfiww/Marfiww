@@ -1,4 +1,5 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="25vw" height="25vh">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" width="25vw" height="25vh">
+<img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" width="25vw" height="25vh">
 📍 Arraial do Cabo, Brazil
 
 🔭  I am currently working on Html Css projects
